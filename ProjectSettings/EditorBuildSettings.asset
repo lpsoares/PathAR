@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ARComplete.unity
+    path: Assets/Scenes/PathAR.unity
     guid: 747c0c1df6430144e99c9cd4fb19b7e5
   m_configObjects: {}
